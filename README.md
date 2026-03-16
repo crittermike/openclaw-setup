@@ -18,7 +18,7 @@ export TELEGRAM_BOT_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
 ./setup.sh
 ```
 
-The script uses **GitHub Copilot** as the AI provider by default (free for GitHub employees).
+The script uses **GitHub Copilot** as the AI provider by default.
 During setup it will pause and show a device-login URL + code — open it in your browser
 and authorize with your GitHub account. No API key needed.
 
