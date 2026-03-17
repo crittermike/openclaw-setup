@@ -6,7 +6,7 @@ and connecting it to your Telegram bot.
 ## Prerequisites
 
 1. **DigitalOcean API token** — [create one here](https://cloud.digitalocean.com/account/api/tokens)
-2. **Telegram bot token** — you already have this from @BotFather
+2. **Telegram bot token** — create one by messaging @BotFather
 3. **GitHub account with Copilot access** (default) — OR an Anthropic/OpenAI API key
 
 ## Quick Start
